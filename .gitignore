@@ -1,0 +1,7 @@
+/target
+solution/target
+/docker_image
+*.zip
+*.log
+*.exe
+.DS_Store
